@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eathoublu/CLionProjects/Vodka/extern.cpp
+
+/Users/eathoublu/CLionProjects/Vodka/login.cpp
+iostream
+/Users/eathoublu/CLionProjects/Vodka/iostream
+fstream
+/Users/eathoublu/CLionProjects/Vodka/fstream
+cstdio
+/Users/eathoublu/CLionProjects/Vodka/cstdio
+
+/Users/eathoublu/CLionProjects/Vodka/main.cpp
+iostream
+/Users/eathoublu/CLionProjects/Vodka/iostream
+fstream
+/Users/eathoublu/CLionProjects/Vodka/fstream
+
+/Users/eathoublu/CLionProjects/Vodka/test2.cpp
+
+/Users/eathoublu/CLionProjects/Vodka/test3.cpp
+iostream
+/Users/eathoublu/CLionProjects/Vodka/iostream
+

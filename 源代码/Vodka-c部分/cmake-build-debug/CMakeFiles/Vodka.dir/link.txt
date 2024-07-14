@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Vodka.dir/main.cpp.o CMakeFiles/Vodka.dir/extern.cpp.o CMakeFiles/Vodka.dir/login.cpp.o CMakeFiles/Vodka.dir/test2.cpp.o CMakeFiles/Vodka.dir/test3.cpp.o  -o Vodka 
